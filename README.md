@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jwaffled&repo=Jwaffled)](https://github.com/Jwaffled/Jwaffled)
+
 
 <!--
 **Jwaffled/Jwaffled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
