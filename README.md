@@ -1,5 +1,4 @@
-![Jwaffled's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwaffled&show_icons=true&theme=radical)
-\n
+![Jwaffled's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwaffled&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwaffled&theme=radical)](https://github.com/Jwaffled/Jwaffled)
 
 
