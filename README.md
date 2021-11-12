@@ -1,4 +1,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jwaffled&repo=Jwaffled)](https://github.com/Jwaffled/Jwaffled)
+![Jwaffled's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwaffled&show_icons=true&theme=gradient)
 
 
 <!--
