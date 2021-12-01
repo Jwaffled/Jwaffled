@@ -5,7 +5,7 @@
 - He/Him
 
 ![Jwaffled's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwaffled&show_icons=true&theme=radical&card_width=500)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwaffled&exclude_repo=my-first-calculator.rs&theme=radical&card_width=500)](https://github.com/Jwaffled/Jwaffled)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwaffled&hide=python&theme=radical&card_width=500)](https://github.com/Jwaffled/Jwaffled)
 
 
 <!--
